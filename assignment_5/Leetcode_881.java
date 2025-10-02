@@ -1,4 +1,3 @@
-package assignment_5;
 
 public class Leetcode_881 {
     class Solution {
