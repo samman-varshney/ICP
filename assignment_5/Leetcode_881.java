@@ -2,7 +2,7 @@
 public class Leetcode_881 {
     class Solution {
         public int numRescueBoats(int[] people, int limit) {
-            int n = people.length;
+            
             int[] nums = new int[30001];
             for (int x : people) {
                 nums[x] += 1;
