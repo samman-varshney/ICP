@@ -1,4 +1,4 @@
-package assigment_10;
+package assignment_10;
 
 import java.util.*;
 
